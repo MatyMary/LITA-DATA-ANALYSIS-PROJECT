@@ -35,7 +35,7 @@ Microsoft Excel is a powerful spreadsheet application that allows users to organ
 SQL Overview
 SQL (Structured Query Language) is a standard programming language used for managing and manipulating relational databases. It allows users to perform operations such as querying data, updating records, inserting new entries, and deleting data. SQL is essential for tasks like data retrieval and analysis in various applications, ranging from small projects to large enterprise systems.
 
-Key Components
+#### Key Components
 * SELECT: Retrieve data from one or more tables.
 * INSERT: Add new records to a table.
 * UPDATE: Modify existing data in a table.
@@ -44,7 +44,7 @@ Key Components
 * WHERE: Filter results based on specific criteria.
 * GROUP BY: Aggregate data for summarization.
 
-Tools Used with SQL
+#### Tools Used with SQL
 
 Database Management Systems (DBMS):
 The following are data mangement system tools used with SQL
@@ -63,7 +63,8 @@ The following are data mangement system tools used with SQL
 * Tableau: A data visualization tool that connects to SQL databases to create interactive dashboards.
 These tools enhance the functionality and usability of SQL in various applications, from database management to data analysis and reporting
 
-### Business Intelligence Tools:
+### SUMMARY ON BUSINESS INTELLIGENCE TOOLS
+
 
 #### CREATING OF GITHUB
 Step by Step of Creating GITHUB
